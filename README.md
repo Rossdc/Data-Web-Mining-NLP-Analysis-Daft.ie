@@ -1,0 +1,2 @@
+# Data-Web-Mining-NLP-Analysis-Daft.ie
+Data was scraped from Daft.ie, and Natural Language Processing performed on the description of house listings with term frequency–inverse document frequency analysed as well as bi-grams and Sentiments (Sentiment Analysis). A Naive Bayes Model and Decision Tree (house price above or below median house price - yes/no) were also developed and. Correlation investigated.
